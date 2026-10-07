@@ -48,9 +48,9 @@ Experiments and implementations around **agentic AI**, including agents, tools, 
 
 Exploring **natural language → SQL → data → LLM response** workflows and practical LLM applications over structured data.
 
-### 📚 [Experiment Learning AI](https://github.com/imvimalsharma/Experiment_Learning_AI)
+### 🛡️ [Txn Guard](https://github.com/imvimalsharma/Txn-Guard)
 
-A collection of experiments and implementations while learning and building **Agentic AI systems**.
+An **Agentic AI system for financial transaction alert investigation**, exploring alert analysis, evidence gathering, risk reasoning, tool calling and human-in-the-loop investigation workflows.
 
 ### 📱 [macDrop](https://github.com/imvimalsharma/macDrop)
 
